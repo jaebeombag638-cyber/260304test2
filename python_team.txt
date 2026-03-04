@@ -2,4 +2,10 @@ team: Python
 
 manager: Melody
 
+<<<<<<< HEAD
 members: juli , Yang, Chae 
+=======
+members: juli , Yang, Chae
+
+friend : Pochaco
+>>>>>>> 18118470e700d5d27ed7675f3ed2109fb54e80ff
