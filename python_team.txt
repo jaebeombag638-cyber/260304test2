@@ -3,3 +3,5 @@ team: Python
 manager: Melody
 
 members: juli , Yang, Chae
+
+friend : Pochaco
