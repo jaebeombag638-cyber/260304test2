@@ -2,4 +2,4 @@ team: Python
 
 manager: Melody
 
-members: juli , Yang, Chae
+members: juli , Yang, Chae 
