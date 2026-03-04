@@ -1,5 +1,5 @@
 team: Python
 
-manager: Lee
+manager: Melody
 
 members: juli , Yang, Chae
